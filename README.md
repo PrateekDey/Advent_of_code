@@ -27,7 +27,7 @@ I gave myself a challenge to work on this Advent of Code 2022 edition.
         </tr>
         <tr>
             <td>Day 4</td>
-            <td><a href="https://github.com/PrateekDey/Advent_of_code/tree/main/Day5_Supply%20Stacks">Camp Cleanup</a></td>
+            <td><a href="https://github.com/PrateekDey/Advent_of_code/tree/main/Day5_Supply%20Stacks">Supply Stacks</a></td>
         </tr>
     </tbody>
   </table>
